@@ -1,0 +1,6 @@
+{
+  "keys": ["re_avery"],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}

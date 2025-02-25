@@ -1,0 +1,6 @@
+{
+  "keys": ["re_czard_blue"],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}

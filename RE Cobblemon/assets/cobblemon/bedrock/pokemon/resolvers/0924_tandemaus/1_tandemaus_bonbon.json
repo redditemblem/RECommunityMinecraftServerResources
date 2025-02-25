@@ -1,0 +1,10 @@
+{
+  "species": "cobblemon:tandemaus",
+  "order": 1,
+  "variations": [
+    {
+      "aspects": ["re_bonbon"],
+      "texture": "cobblemon:textures/pokemon/0924_tandemaus/tandemaus_bonbon.png"
+    }
+  ]
+}

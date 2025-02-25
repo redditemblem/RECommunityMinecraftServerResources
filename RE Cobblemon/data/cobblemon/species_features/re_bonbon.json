@@ -1,0 +1,6 @@
+{
+  "keys": ["re_bonbon"],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}

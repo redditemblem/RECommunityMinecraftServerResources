@@ -1,0 +1,13 @@
+{ 
+  "pack": {
+    "pack_format": 15,
+    "description": "Custom textures for the Reddit Emblem Cobblemon server!"
+  },
+  "language": {
+    "LANG_COUNTRY": {
+      "name": "English",
+      "region": "Country/Region name",
+      "bidirectional": false
+    }
+  }
+}

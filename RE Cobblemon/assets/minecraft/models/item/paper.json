@@ -1,0 +1,56 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/paper"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 1
+            },
+            "model": "custom:item/pokeball_coupon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 2
+            },
+            "model": "custom:item/masterball_coupon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 3
+            },
+            "model": "custom:item/shiny_coupon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 4
+            },
+            "model": "custom:item/size_coupon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 5
+            },
+            "model": "custom:item/iv_coupon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 6
+            },
+            "model": "custom:item/ditto_coupon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 7
+            },
+            "model": "custom:item/smeargle_coupon"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 8
+            },
+            "model": "custom:item/trans_coupon"
+        }
+    ]
+}

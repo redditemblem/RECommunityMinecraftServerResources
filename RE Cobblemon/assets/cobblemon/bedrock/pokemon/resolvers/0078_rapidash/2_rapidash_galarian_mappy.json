@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:rapidash",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["galarian", "re_mappy_cotton_candy"],
+      "texture": "cobblemon:textures/pokemon/0078_rapidash/rapidash_galar_cotton_candy.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0078_rapidash/rapidash_galar_cotton_candy_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

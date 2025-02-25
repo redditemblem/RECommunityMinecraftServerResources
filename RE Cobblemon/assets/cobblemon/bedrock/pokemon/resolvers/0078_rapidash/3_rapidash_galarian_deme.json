@@ -1,0 +1,17 @@
+{
+  "species": "cobblemon:rapidash",
+  "order": 3,
+  "variations": [
+    {
+      "aspects": ["galarian", "re_demecorn"],
+      "texture": "cobblemon:textures/pokemon/0078_rapidash/rapidash_galar_demecorn.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/0078_rapidash/rapidash_galar_demecorn_emissive.png",
+          "emissive": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "keys": ["re_demecorn"],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}

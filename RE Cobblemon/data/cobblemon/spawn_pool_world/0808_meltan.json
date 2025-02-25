@@ -1,0 +1,53 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "meltan",
+            "pokemon": "meltan",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "30",
+            "weight": 3,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "structures": [
+                    "#minecraft:village"
+                ]
+            }
+        },
+        {
+            "id": "meltan-2",
+            "pokemon": "meltan",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "30",
+            "weight": 5,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "#cobblemon:is_overworld"
+                ],
+                "neededNearbyBlocks": [
+                    "minecraft:iron_block",
+                    "create:industrial_iron_block",
+                    "create:cogwheel",
+                    "create:large_cogwheel",
+                    "create:gearbox",
+                    "create:vertical_gearbox"
+                ]
+            }
+        }
+    ]
+}
