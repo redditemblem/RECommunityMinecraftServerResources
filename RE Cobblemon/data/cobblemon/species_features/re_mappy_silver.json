@@ -1,0 +1,6 @@
+{
+  "keys": ["re_mappy_silver"],
+  "type": "flag",
+  "isAspect": true,
+  "default": false
+}

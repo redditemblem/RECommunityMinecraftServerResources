@@ -1,0 +1,18 @@
+{
+  "species": "cobblemon:luxray",
+  "order": 2,
+  "variations": [
+    {
+      "aspects": ["re_mappy_silver"],
+      "texture": "cobblemon:textures/pokemon/0405_luxray/luxray_mappy_silver.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "emissive": true,
+          "texture": "cobblemon:textures/pokemon/0405_luxray/luxray_mappy_silver_emissive.png",
+          "translucent": false
+        }
+      ]
+    }
+  ]
+}
